@@ -233,7 +233,7 @@ Gym-Performance-Dashboard/
 
 A preview of the completed dashboard is available below.
 
-![Gym Performance Dashboard](Screenshots/dashboard.png)
+![Gym Performance Dashboard](dashboard.png)
 
 ---
 
