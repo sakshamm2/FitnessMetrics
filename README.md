@@ -8,7 +8,23 @@ The dashboard transforms operational gym data into actionable business insights 
 <img width="847" height="633" alt="image" src="https://github.com/user-attachments/assets/28950f32-40a9-4019-8612-2dd4a4172e55" />
 
 ---
+## 🧠 Skills Demonstrated
 
+- Power BI Dashboard Development
+- Data Modeling
+- Star Schema Design
+- DAX
+- Power Query
+- Data Cleaning & Transformation
+- Time-Series Analysis
+- KPI Development
+- Business Intelligence
+- Data Visualization
+- Interactive Filtering
+- Dashboard UI/UX Design
+- Business Insight Generation
+
+  
 ## 📊 Dashboard Overview
 
 The Gym Performance Dashboard provides a centralized view of key business and operational metrics.
@@ -246,7 +262,14 @@ Gym-Performance-Dashboard/
 6. Interact with the dashboard using the available slicers and visual filters.
 
 
+## ⚠️ Project Limitations
 
+- The dashboard is based on historical data and therefore does not provide real-time operational monitoring.
+- Predictive analytics and machine-learning-based churn forecasting are not currently implemented.
+- Data refresh is dependent on the underlying Excel dataset.
+- The current analysis focuses primarily on descriptive and diagnostic analytics.
+- Additional operational systems could be integrated to provide a more complete view of gym performance.
+  
 ---
 
 ## 📌 Portfolio Highlights
