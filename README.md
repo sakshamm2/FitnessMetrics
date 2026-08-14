@@ -3,7 +3,7 @@
 An executive-level **Gym Performance Dashboard** built in Microsoft Power BI to provide a consolidated view of gym revenue, membership activity, attendance, acquisition channels, branch performance, and trainer analytics.
 
 The dashboard transforms operational gym data into actionable business insights through an interactive, clean, and portfolio-ready BI experience.
-
+![Gym Performance Dashboard](dashboard.png)
 ---
 
 ## 📊 Dashboard Overview
@@ -229,11 +229,7 @@ Gym-Performance-Dashboard/
 5. Refresh the data if required.
 6. Interact with the dashboard using the available slicers and visual filters.
 
-### Option 2 — Dashboard Screenshot
 
-A preview of the completed dashboard is available below.
-
-![Gym Performance Dashboard](dashboard.png)
 
 ---
 
