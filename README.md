@@ -200,7 +200,20 @@ With approximately **15K attendance records**, the dashboard provides visibility
 Trainer analytics rank trainers according to session duration, helping identify differences in member engagement and session activity.
 
 ---
+## 🔮 Future Scope
 
+The current dashboard provides a comprehensive view of gym performance, but it can be extended further with:
+
+- **Predictive Analytics** — Forecast future revenue, attendance, and membership demand using historical trends.
+- **Member Churn Prediction** — Identify members at risk of cancellation using attendance, membership history, and payment behavior.
+- **Automated Data Refresh** — Connect Power BI directly to a database or cloud data source for scheduled refreshes.
+- **Real-Time Attendance Monitoring** — Integrate gym check-in systems to monitor attendance and occupancy in near real time.
+- **Advanced Member Segmentation** — Use clustering techniques to identify high-value, at-risk, and highly engaged member groups.
+- **Trainer Performance Analytics** — Add additional KPIs such as member retention, sessions completed, and trainer utilization.
+- **Branch Benchmarking** — Compare branches across revenue, membership growth, attendance, and profitability.
+- **Mobile Dashboard** — Create a Power BI mobile-optimized layout for managers monitoring performance on the go.
+
+- 
 ## 📂 Project Structure
 
 ```text
