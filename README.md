@@ -5,7 +5,7 @@ An executive-level **Gym Performance Dashboard** built in Microsoft Power BI to 
 The dashboard transforms operational gym data into actionable business insights through an interactive, clean, and portfolio-ready BI experience.
 ## 📊 Dashboard Preview
 
-<img src="./dashboard.png" alt="Gym Performance Dashboard">
+![Gym Performance Dashboard](https://raw.githubusercontent.com/sakshamm2/FitnessMetrics/main/dashboard.png)
 ---
 
 ## 📊 Dashboard Overview
